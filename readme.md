@@ -28,12 +28,6 @@ This project incorporates the following:
 
 3D model of the PCB, 3D models of the components are also available in the dedicated folder.
 
-### Datasheets:
-
-This is where you can access the datasheets of the major components used in the design. The readme file contains the rules for suggesting components and uploading datasheets. 
-
-Suggesting components and ensuring that the uploaded datasheets are up to date will be a big help for us.
-
 ### PCB Layout: 
 
 The latest Kicad PCB layout file is here. You can find component land patterns (aka footprints) in the dedicated folder.
